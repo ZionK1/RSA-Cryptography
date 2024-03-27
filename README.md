@@ -1,8 +1,9 @@
-# Public Key Cryptography
+# RSA Public Key Cryptography
 
-This C program contains code for a key generator, producing RSA public and private key pairs,
+This C program contains code for a key generator, producing public and private key pairs,
 an encryptor, encrypting files using a public key, and a decryptor, decrypting encrypted
-files using the corresponding private key.
+files using the corresponding private key. The computations behind these processes are based
+on the RSA crypto-system.
 
 ## Formatting
 
